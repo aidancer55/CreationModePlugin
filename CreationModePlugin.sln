@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationModePlugin", "CreationModePlugin\CreationModePlugin.csproj", "{92118922-ECA8-4985-B56A-6D5BA13035DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92118922-ECA8-4985-B56A-6D5BA13035DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92118922-ECA8-4985-B56A-6D5BA13035DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92118922-ECA8-4985-B56A-6D5BA13035DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92118922-ECA8-4985-B56A-6D5BA13035DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47EADE28-F5E9-41D0-937D-992267E37111}
+	EndGlobalSection
+EndGlobal
